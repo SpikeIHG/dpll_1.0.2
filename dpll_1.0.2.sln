@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dpll_1.0.2", "dpll_1.0.2.vcxproj", "{0423DFAA-B57D-4464-8ACC-E9E3386CA503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0423DFAA-B57D-4464-8ACC-E9E3386CA503}.Debug|x64.ActiveCfg = Debug|x64
+		{0423DFAA-B57D-4464-8ACC-E9E3386CA503}.Debug|x64.Build.0 = Debug|x64
+		{0423DFAA-B57D-4464-8ACC-E9E3386CA503}.Debug|x86.ActiveCfg = Debug|Win32
+		{0423DFAA-B57D-4464-8ACC-E9E3386CA503}.Debug|x86.Build.0 = Debug|Win32
+		{0423DFAA-B57D-4464-8ACC-E9E3386CA503}.Release|x64.ActiveCfg = Release|x64
+		{0423DFAA-B57D-4464-8ACC-E9E3386CA503}.Release|x64.Build.0 = Release|x64
+		{0423DFAA-B57D-4464-8ACC-E9E3386CA503}.Release|x86.ActiveCfg = Release|Win32
+		{0423DFAA-B57D-4464-8ACC-E9E3386CA503}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6608709-E553-471A-AEE6-66125756CB8F}
+	EndGlobalSection
+EndGlobal
